@@ -1,3 +1,1 @@
-Ceci est ma branche locale !
-Ce texte va générer un conflit !
-Bisous !
+Ceci est ma résolution du conflit !
