@@ -1,1 +1,1 @@
-Je suis un collègue qui a modifié ce fichier alors moi j'ai continué à travailler dessus en local.
+Ceci est ma résolution du conflit !
