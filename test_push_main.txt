@@ -1,4 +1,1 @@
-Ceci est ma branche modifiée en locale depuis ma branche virgile
-J'ai écrit ça dans la branche main depuis github
-Cela va donc créer un conflit !
-Bisous
+Je suis un collègue qui a modifié ce fichier alors moi j'ai continué à travailler dessus en local.
